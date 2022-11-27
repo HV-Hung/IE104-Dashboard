@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/IE104-Dashboard/static/css/main.65038264.css",
+    "main.js": "/IE104-Dashboard/static/js/main.0d182c61.js",
+    "index.html": "/IE104-Dashboard/index.html",
+    "main.65038264.css.map": "/IE104-Dashboard/static/css/main.65038264.css.map",
+    "main.0d182c61.js.map": "/IE104-Dashboard/static/js/main.0d182c61.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65038264.css",
+    "static/js/main.0d182c61.js"
+  ]
+}
